@@ -65,17 +65,3 @@ ID  Name    Age Occupation
 4   Sanjay  35  Designer
 5   Amit    30  Manager
 ```
-
-## License
-
-This project is released under the MIT License. You are free to use and modify the code as needed.
-
-## Author
-
-[Your Name]
-
-If you have any questions or suggestions, please feel free to contact the author at [your.email@example.com].
-
----
-
-You can replace `[Your Name]` and `[your.email@example.com]` with your name and contact information. Additionally, make sure to adapt the README to include specific details about your project and how it's intended to be used.
