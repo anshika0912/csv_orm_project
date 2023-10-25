@@ -1,7 +1,6 @@
 # CSVORM - CSV Object-Relational Mapping
 
-CSVORM is a simple Python class that provides object-relational mapping (ORM) functionality for working with CSV data. It allows you to perform basic operations like listing all records, retrieving specific records by ID, and filtering records based on column values in a CSV file.
-
+A lightweight Python library for read-only Object-Relational Mapping (ORM) with CSV files. Easily list all records, fetch specific data by ID, and filter by column values. Ideal for simple data management without a database.
 ## Usage
 
 1. **Installation**
